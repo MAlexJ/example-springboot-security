@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: https-ssl-simple-service
